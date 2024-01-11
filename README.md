@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnhy&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadnhy" /> </p>
 
-<p align="left"> <a href="linkedin.com/in/ahmadnh" target="blank"><img src="https://img.shields.io/badge/follow @Ahmadnh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahmdnhy"  </p>
+<p align="left"> <a href="https://instagram.com/ahmdnhy?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img src="https://img.shields.io/badge/follow @Ahmdnhy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ahmdnhy"  </p>
 
 - 🔭 I’m currently studying at **Duta Bangsa University**
 
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Front-End Developer**
 
-- 📫 How to reach me **Ahmadnurhidayat450@gmail.com**
+- 📫 How to reach me **Begopeoplee@gmail.com**
 
-- ⚡ Fun fact **Makan banyak ga bisa gemuk**
+- ⚡ Fun fact **"Makan banyak ga bisa gemuk"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
