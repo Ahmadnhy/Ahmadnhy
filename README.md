@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://ahmadnhy.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmad-nur-hidayat-725a91279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadnh" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmdnhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmdnhy" height="30" width="40" /></a>
 <a href="https://open.spotify.com/playlist/7KrJAPGWy1RXT8ojHNnZ6V?si=wd6yZ2XoSYOA7mkBAOtfNA&utm_source=copy-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" /></a>
@@ -29,4 +28,4 @@
 <a href="https://www.facebook.com/ahmad.nurhidayat.50309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/Ahmadnhy/Ahmadnhy/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Ahmadnhy/Ahmadnhy/blob/output/github-snake-dark.svg)
