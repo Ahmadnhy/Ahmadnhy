@@ -1,14 +1,17 @@
 name: Generate GitHub Snake
 
 on:
-  # Jalankan setiap 12 jam sekali
   schedule:
     - cron: "0 */12 * * *"
-  # Izinkan untuk dijalankan manual dari tab Actions
   workflow_dispatch:
 
 jobs:
   build:
+    # ---- TAMBAHKAN 3 BARIS INI ----
+    permissions:
+      contents: write
+    # -------------------------------
+
     runs-on: ubuntu-latest
 
     steps:
@@ -18,10 +21,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          # Otomatis mengambil username GitHub Anda
           github_user_name: ${{ github.repository_owner }}
-
-          # Tentukan file output
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -30,10 +30,7 @@ jobs:
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          # Branch tujuan untuk menyimpan file SVG
           target_branch: output
-          # Direktori tempat file SVG disimpan (dari langkah sebelumnya)
           build_dir: dist
         env:
-          # Token ini diperlukan untuk mengizinkan Action menulis ke repository Anda
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
