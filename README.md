@@ -1,7 +1,7 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://ahmadnh.vercel.app/)
 
-<h1 align="center">Hi 👋, I'm Ahmad Nur Hidayat</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h1 align="center">Hi 👋 <br> I'm Ahmad Nur Hidayat</h1>
+<h3 align="center">Junior Web & App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/c893720298aead2e6edf7c6f7a100a6a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnhy&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadnhy" /> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying at **Duta Bangsa University**
 
-- 🌱 I’m currently learning **Web & mobile developer**
+- 🌱 I’m currently learning **Web & App developer**
 
 - 💬 Ask me about **Front-End Developer**
 
