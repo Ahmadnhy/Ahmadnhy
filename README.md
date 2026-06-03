@@ -1,8 +1,11 @@
-[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://ahmadnh.vercel.app/)
+[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://ahmadnh.is-a.dev/)
 
-<h1 align="center">Hi 👋 <br> I'm Ahmad Nur Hidayat</h1>
+<h1 align="center">Hi 👋🏻<br> I'm Ahmad Nur Hidayat</h1>
 <h3 align="center">Web & App Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1928646/screenshots/4884082/media/c893720298aead2e6edf7c6f7a100a6a.gif">
+
+<br>
+
+<img align="right" alt="Coding" width="400" href="" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadnhy&label=Profile%20views&color=blueviolet&style=flat" alt="ahmadnhy" /> </p>
 
@@ -12,15 +15,15 @@
 
 - 🌱 I’m currently learning **Web & App developer**
 
-- 💬 Ask me about **Front-End Developer**
+- 💬 Ask me about **Website and Application Development**
 
 - 📫 How to reach me **Begopeoplee@gmail.com**
 
-- ⚡ Fun fact **"Makan banyak ga bisa gemuk"**
+- ⚡ Fun fact **"Makan banyak ga bisa gemuk ¬_¬"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmad-nur-hidayat-725a91279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadnh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmadnh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadnh" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmdnhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmdnhy" height="30" width="40" /></a>
 <a href="https://open.spotify.com/playlist/7KrJAPGWy1RXT8ojHNnZ6V?si=wd6yZ2XoSYOA7mkBAOtfNA&utm_source=copy-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" /></a>
 <a href="https://github.com/Ahmadnhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ahmadnhy" height="30" width="40" /></a>
