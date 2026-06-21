@@ -1,7 +1,7 @@
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://ahmadnh.is-a.dev/)
 
 <h1 align="center">Hi 👋🏻<br> I'm Ahmad Nur Hidayat</h1>
-<h3 align="center">Web & App Developer</h3>
+<h3 align="center">Website & Mobile App Developer <br> Software Engineer</h3>
 
 <br>
 
